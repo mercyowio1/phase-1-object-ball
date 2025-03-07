@@ -32,5 +32,11 @@
     "jsdom": "^9.0",
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "babel-core": "^6.26.3",
+    "babel-register": "^6.26.0"
   }
 }
